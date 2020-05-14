@@ -1,1 +1,1 @@
-simple cnn code by keras
+simple cnn and fine-turning code by keras
